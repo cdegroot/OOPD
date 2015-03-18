@@ -27,6 +27,7 @@ protected void initialize() {
 	//These 2 lines will start vissenkom as example.//
 	//       Delete when creating own game!         //
 	//////////////////////////////////////////////////
+    //////HALLO TEST TEST
 	////////////////////////////////////////////////////
 }
 
